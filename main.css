@@ -37,5 +37,6 @@ li {
 
   li::first-letter {
     font-weight: bold;
+    font-size: 35px;
   }
 }
